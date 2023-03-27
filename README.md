@@ -1,5 +1,5 @@
 #printf
-Hello Wilfred,
+Hello Winifred,
 
 I have created several files for our project, along with a README file. When you clone the repository, please make sure to do a git pull to get the files I have created.
 
